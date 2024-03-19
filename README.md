@@ -1,1 +1,1 @@
-Wake up pulseaudio when starting a new user session, to prevent USB DAC going to sleep. Add script to application auto-start.
+Script to wake up pulseaudio when starting a new user session, to prevent USB DAC from going to sleep. Place script in a convenient location beside dummy audio file and create a new entry in application auto-start.
