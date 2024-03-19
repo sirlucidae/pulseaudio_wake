@@ -1,0 +1,1 @@
+Wake up pulseaudio when starting a new user session, to prevent USB DAC going to sleep. Add script to application auto-start.
